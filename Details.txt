@@ -5,8 +5,8 @@ A. Practical Guide to Trading Specialization
       4. Derivatives - Options & Futures
 
 B. Foundational Finance for Strategic Decision Manking Specialization
-    1. Introduction to Time Value of Money ( TVM )
-    2. Advanced Concepts in Time Value of Money
+    1. Introduction to Time Value of Money ( TVM )  - Completed 
+    2. Advanced Concepts in Time Value of Money     - Completed 
     3. Stocks and Bonds 
     4. Advanced Understanding of Stocks and Bonds 
 
@@ -14,3 +14,13 @@ C. Machine Learning for Trading Specialization
     1. Introduction to Trading, Machine Learning & GCP
     2. Using Maching Learning in Trading and Finance 
     3. Reinforcement Learning in Trading Strategies.
+
+D. Trading Strategies in Emerging Markets Specialization 
+    1. Trading Basics
+    2. Trading Algorthims
+    3. Advanced Trading Algorithms
+    4. Creating a Portfolio
+    5. Design your own trading strategy - Culminating Project.
+
+E. Investing using Value,Growth, Momentum and Economices Specialization 
+
