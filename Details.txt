@@ -23,4 +23,13 @@ D. Trading Strategies in Emerging Markets Specialization
     5. Design your own trading strategy - Culminating Project.
 
 E. Investing using Value,Growth, Momentum and Economices Specialization 
+   1. Introduction to Growth Investing
+   2. Introduction to Value Investing 
+   3. Introduction to Momentum Investing 
+   4. Sector Investing
+   5. Basics Economics
+   6. Construction and Real Estate ( US )
+   7. Monetary Measures ,Economic Output 
+   8. Economics - Employment and the Labor Market ( US )
+   9. Business and Consumer Activity and Confidence ( US )
 
