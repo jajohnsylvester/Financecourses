@@ -12,7 +12,7 @@ B. Foundational Finance for Strategic Decision Manking Specialization
     3. Stocks and Bonds 
     4. Advanced Understanding of Stocks and Bonds 
 -----------------------------------------------------------------------------
-YTS Contributor : Not assigned
+YTS Contributor : Niranjan
 C. Machine Learning for Trading Specialization
     1. Introduction to Trading, Machine Learning & GCP
     2. Using Maching Learning in Trading and Finance 
