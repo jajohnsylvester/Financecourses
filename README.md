@@ -25,19 +25,19 @@ This document provides a consolidated list of professional certificates, courses
 
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- |
-| 1 |  Introduction to Trading, Machine Learning & GCP | Niranjan | In Progress |
-| 2 |  Using Machine Learning in Trading and Finance | Niranjan | In Progress |
-| 3 |  Reinforcement Learning for Trading Strategies | Niranjan | In Progress |
+| 1 |  Introduction to Trading, Machine Learning & GCP | Niranjan | InProgress |
+| 2 |  Using Machine Learning in Trading and Finance | Niranjan | InProgress |
+| 3 |  Reinforcement Learning for Trading Strategies | Niranjan | InProgress |
 
 ## D. Indian School of Business : Trading Strategies in Emerging Markets Specialization
 
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- |
 | 1 |  Trading Basics | John | Captured |
-| 2 |  Trading Algorithms | John | In Progress |
-| 3 |  Advanced Trading Algorithms | John | In Progress |
-| 4 |  Creating a Portfolio | John | In Progress |
-| 5 |  Design your own trading strategy – Culminating Project | John | In Progress |
+| 2 |  Trading Algorithms | John | Captured |
+| 3 |  Advanced Trading Algorithms | John | InProgress |
+| 4 |  Creating a Portfolio | John | InProgress |
+| 5 |  Design your own trading strategy – Culminating Project | John | InProgress |
 
 
 
@@ -45,15 +45,15 @@ This document provides a consolidated list of professional certificates, courses
 
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- |
-| 1 | Introduction to Growth Investing | Sucila | In Progress |
-| 2 |  Introduction to Value Investing | Sucila | In Progress |
-| 3 |  Introduction to Momentum Investing | Sucila | In Progress |
-| 4 |  Sector Investing | Sucila | In Progress |
-| 5 |  Basics Economics | Sucila | In Progress |
-| 6 |  Construction and Real Estate ( US ) | Sucila | In Progress |
-| 7 |  Monetary Measures ,Economic Output  | Sucila | In Progress |
-| 8 |  Economics - Employment and the Labor Market ( US ) | Sucila | In Progress |
-| 9 |  Business and Consumer Activity and Confidence ( US ) | Sucila | In Progress |
+| 1 | Introduction to Growth Investing | Sucila | InProgress |
+| 2 |  Introduction to Value Investing | Sucila | InProgress |
+| 3 |  Introduction to Momentum Investing | Sucila | InProgress |
+| 4 |  Sector Investing | Sucila | InProgress |
+| 5 |  Basics Economics | Sucila | InProgress |
+| 6 |  Construction and Real Estate ( US ) | Sucila | InProgress |
+| 7 |  Monetary Measures ,Economic Output  | Sucila | InProgress |
+| 8 |  Economics - Employment and the Labor Market ( US ) | Sucila | InProgress |
+| 9 |  Business and Consumer Activity and Confidence ( US ) | Sucila | InProgress |
 
 
 
@@ -120,4 +120,5 @@ This document provides a consolidated list of professional certificates, courses
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- |
 | 1 | Course 1 |  |  |
+
 
