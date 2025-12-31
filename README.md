@@ -122,3 +122,9 @@ This document provides a consolidated list of professional certificates, courses
 | 1 | Course 1 |  |  |
 
 
+## M. Coursera :  GenAI for Algorithmic Trading
+| Course # | Course Name |  Contributor | Current Status |
+| :--- | :--- | :--- | :--- |
+| 1 | Course 1 |  |  |
+
+
