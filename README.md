@@ -119,12 +119,13 @@ This document provides a consolidated list of professional certificates, courses
 ## L. SAS :  Analyzing Time Series and Sequential Data Specialization
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- |
-| 1 | Course 1 |  |  |
+| 1 | Course 1 | John |  |
 
 
 ## M. Coursera :  GenAI for Algorithmic Trading
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- |
-| 1 | Course 1 |  |  |
+| 1 | Course 1 | John | Captured |
+
 
 
