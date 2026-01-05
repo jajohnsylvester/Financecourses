@@ -35,7 +35,7 @@ This document provides a consolidated list of professional certificates, courses
 | :--- | :--- | :--- | :--- |
 | 1 |  Trading Basics | John | Captured |
 | 2 |  Trading Algorithms | John | Captured |
-| 3 |  Advanced Trading Algorithms | John | InProgress |
+| 3 |  Advanced Trading Algorithms | John | Captured |
 | 4 |  Creating a Portfolio | John | InProgress |
 | 5 |  Design your own trading strategy – Culminating Project | John | InProgress |
 
@@ -126,6 +126,7 @@ This document provides a consolidated list of professional certificates, courses
 | Course # | Course Name |  Contributor | Current Status |
 | :--- | :--- | :--- | :--- |
 | 1 | Course 1 | John | Captured |
+
 
 
 
